@@ -1,0 +1,28 @@
+_repo: Final-Proof--Or-The-Value-of-Evidence_35902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ottolengui, Rodrigues
+    alias: Ottolengui, R.
+    deathdate: 1937
+    gutenberg_agent_id: '35553'
+    url: http://www.gutenberg.org/2009/agents/35553
+    wikipedia: http://en.wikipedia.org/wiki/Rodrigues_Ottolengui
+description: 'Sequel to: An artist in crime, #31915.'
+gutenberg_issued: '2011-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Final Proof; Or, The Value of Evidence
+url: http://www.gutenberg.org/ebooks/35902
