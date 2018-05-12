@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35553
     wikipedia: http://en.wikipedia.org/wiki/Rodrigues_Ottolengui
 description: 'Sequel to: An artist in crime, #31915.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35902#Final-Proof--Or-The-Value-of-Evidence
 gutenberg_issued: '2011-04-18'
 gutenberg_type: Text
 identifiers:
